@@ -1,5 +1,3 @@
-s step is not taken.
-
 apiVersion: v1
 kind: Service
 metadata:
